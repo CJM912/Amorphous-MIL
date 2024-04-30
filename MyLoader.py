@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Aug 16 09:59:53 2019
-
-@author: SCSC
-"""
 
 import torch
 import sys
