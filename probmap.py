@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Aug 27 09:15:35 2019
+
 使用训练好的模型返回整张图片的概率矩阵
-@author: SCSC
 """
 
 import torch, time
